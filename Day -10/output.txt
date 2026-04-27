@@ -1,0 +1,3 @@
+The number of lines is 4.
+The numer of words are 18.
+The repeat count of python is 3
